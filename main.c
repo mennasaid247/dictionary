@@ -1,11 +1,5 @@
-/*
- *  Code by:-
- *  Abdallah Elsayed Ahemd      7459 G2.
- *  Menna Said Salah Eldin      7556 G3.
- *
- *  Lab 4 assigment
- *  Code: Spell check.
-*/
+
+ 
 
 #include <stdio.h>
 #include <stdlib.h>
